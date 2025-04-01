@@ -1,3 +1,0 @@
-{"timestamp":0,"category":"session_restore","name":"backup_can_be_loaded_session_file","extra":{"can_load":"true","glean_timestamp":"1743488914187","path_key":"clean","loadfail_reason":"N/A"}}
-{"timestamp":1,"category":"session_restore","name":"backup_can_be_loaded_session_file","extra":{"loadfail_reason":"N/A","glean_timestamp":"1743488914189","can_load":"true","path_key":"clean"}}
-{"timestamp":1,"category":"session_restore","name":"shutdown_success_session_startup","extra":{"shutdown_reason":"N/A","glean_timestamp":"1743488914189","shutdown_ok":"false"}}
