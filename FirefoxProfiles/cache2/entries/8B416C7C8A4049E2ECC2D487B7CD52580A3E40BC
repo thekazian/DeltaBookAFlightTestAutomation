@@ -1,0 +1,2335 @@
+{
+	"countryLanguages": [{
+			"countryName": "Ghana",
+			"isoCode": "gh",
+			"urlcc": "mea",
+			"languageDtls": [{
+				"languageCode": "en",
+				"languageName": "English",
+				"countryName": "Ghana",
+				"tags": [],
+				"prefLanguage": "Y",
+				"secondaryPrefLanguage": "N",
+				"url": "www.delta.com"
+			}],
+			"regionCode": "MEA",
+			"isRegion": ""
+		},
+		{
+			"countryName": "Israel",
+			"isoCode": "il",
+			"urlcc": "mea",
+			"languageDtls": [{
+				"languageCode": "en",
+				"languageName": "English",
+				"countryName": "Israel",
+				"tags": [],
+				"prefLanguage": "Y",
+				"secondaryPrefLanguage": "N",
+				"url": "www.delta.com"
+			}],
+			"regionCode": "MEA",
+			"isRegion": ""
+		},
+		{
+			"countryName": "Nigeria",
+			"isoCode": "ng",
+			"urlcc": "mea",
+			"languageDtls": [{
+				"languageCode": "en",
+				"languageName": "English",
+				"countryName": "Nigeria",
+				"tags": [],
+				"prefLanguage": "Y",
+				"secondaryPrefLanguage": "N",
+				"url": "www.delta.com"
+			}],
+			"regionCode": "MEA",
+			"isRegion": ""
+		},
+		{
+			"countryName": "Senegal",
+			"isoCode": "sn",
+			"urlcc": "mea",
+			"languageDtls": [{
+				"languageCode": "en",
+				"languageName": "English",
+				"countryName": "Senegal",
+				"tags": [],
+				"prefLanguage": "Y",
+				"secondaryPrefLanguage": "N",
+				"url": "www.delta.com"
+			}],
+			"regionCode": "MEA",
+			"isRegion": ""
+		},
+		{
+			"countryName": "South Africa",
+			"isoCode": "za",
+			"urlcc": "mea",
+			"languageDtls": [{
+				"languageCode": "en",
+				"languageName": "English",
+				"countryName": "South Africa",
+				"tags": [],
+				"prefLanguage": "Y",
+				"secondaryPrefLanguage": "N",
+				"url": "www.delta.com"
+			}],
+			"regionCode": "MEA",
+			"isRegion": ""
+		},
+		{
+			"countryName": "United Arab Emirates",
+			"isoCode": "ae",
+			"urlcc": "mea",
+			"languageDtls": [{
+				"languageCode": "en",
+				"languageName": "English",
+				"countryName": "United Arab Emirates",
+				"tags": [],
+				"prefLanguage": "Y",
+				"secondaryPrefLanguage": "N",
+				"url": "www.delta.com"
+			}],
+			"regionCode": "MEA",
+			"isRegion": ""
+		},
+		{
+			"countryName": "Australia",
+			"isoCode": "au",
+			"urlcc": "apac",
+			"languageDtls": [{
+				"languageCode": "en",
+				"languageName": "English",
+				"countryName": "Australia",
+				"tags": [],
+				"prefLanguage": "Y",
+				"secondaryPrefLanguage": "N",
+				"url": "www.delta.com"
+			}],
+			"regionCode": "APC",
+			"isRegion": ""
+		},
+		{
+			"countryName": "China",
+			"isoCode": "cn",
+			"urlcc": "cn",
+			"languageDtls": [{
+					"languageCode": "en",
+					"languageName": "English",
+					"countryName": "China",
+					"tags": [],
+					"prefLanguage": "N",
+					"secondaryPrefLanguage": "Y",
+					"url": "www.delta.com"
+				},
+				{
+					"languageCode": "zh",
+					"languageName": "简体中文",
+					"countryName": "中国",
+					"tags": [],
+					"prefLanguage": "Y",
+					"secondaryPrefLanguage": "N",
+					"url": "zh.delta.com"
+				}
+			],
+			"regionCode": "APC",
+			"isRegion": ""
+		},
+		{
+			"countryName": "Hong Kong",
+			"isoCode": "hk",
+			"urlcc": "apac",
+			"languageDtls": [{
+					"languageCode": "en",
+					"languageName": "English",
+					"countryName": "Hong Kong, Hong Kong",
+					"tags": [],
+					"prefLanguage": "N",
+					"secondaryPrefLanguage": "Y",
+					"url": "www.delta.com"
+				},
+				{
+					"languageCode": "zt",
+					"languageName": "繁體中文",
+					"countryName": "中国香港",
+					"tags": [],
+					"prefLanguage": "Y",
+					"secondaryPrefLanguage": "N",
+					"url": "zt.delta.com"
+				}
+			],
+			"regionCode": "APC",
+			"isRegion": ""
+		},
+		{
+			"countryName": "Taipei",
+			"isoCode": "tw",
+			"urlcc": "apac",
+			"languageDtls": [{
+					"languageCode": "en",
+					"languageName": "English",
+					"countryName": "Taipei, Taipei",
+					"tags": [],
+					"prefLanguage": "N",
+					"secondaryPrefLanguage": "Y",
+					"url": "www.delta.com"
+				},
+				{
+					"languageCode": "zt",
+					"languageName": "繁體中文",
+					"countryName": "台北",
+					"tags": [],
+					"prefLanguage": "Y",
+					"secondaryPrefLanguage": "N",
+					"url": "zt.delta.com"
+				}
+			],
+			"regionCode": "APC",
+			"isRegion": ""
+		},
+		{
+			"countryName": "India",
+			"isoCode": "in",
+			"urlcc": "apac",
+			"languageDtls": [{
+				"languageCode": "en",
+				"languageName": "English",
+				"countryName": "India",
+				"tags": [],
+				"prefLanguage": "Y",
+				"secondaryPrefLanguage": "N",
+				"url": "www.delta.com"
+			}],
+			"regionCode": "APC",
+			"isRegion": ""
+		},
+		{
+			"countryName": "Japan",
+			"isoCode": "jp",
+			"urlcc": "jp",
+			"languageDtls": [{
+					"languageCode": "en",
+					"languageName": "English",
+					"countryName": "Japan",
+					"tags": [],
+					"prefLanguage": "N",
+					"secondaryPrefLanguage": "Y",
+					"url": "www.delta.com"
+				},
+				{
+					"languageCode": "ja",
+					"languageName": "日本語",
+					"countryName": "日本",
+					"tags": [],
+					"prefLanguage": "Y",
+					"secondaryPrefLanguage": "N",
+					"url": "ja.delta.com"
+				}
+			],
+			"regionCode": "APC",
+			"isRegion": ""
+		},
+		{
+			"countryName": "New Zealand",
+			"isoCode": "nz",
+			"urlcc": "apac",
+			"languageDtls": [{
+				"languageCode": "en",
+				"languageName": "English",
+				"countryName": "New Zealand",
+				"tags": [],
+				"prefLanguage": "Y",
+				"secondaryPrefLanguage": "N",
+				"url": "www.delta.com"
+			}],
+			"regionCode": "APC",
+			"isRegion": ""
+		},
+		{
+			"countryName": "Philippines",
+			"isoCode": "ph",
+			"urlcc": "apac",
+			"languageDtls": [{
+				"languageCode": "en",
+				"languageName": "English",
+				"countryName": "Philippines",
+				"tags": [],
+				"prefLanguage": "Y",
+				"secondaryPrefLanguage": "N",
+				"url": "www.delta.com"
+			}],
+			"regionCode": "APC",
+			"isRegion": ""
+		},
+		{
+			"countryName": "Singapore",
+			"isoCode": "sg",
+			"urlcc": "apac",
+			"languageDtls": [{
+				"languageCode": "en",
+				"languageName": "English",
+				"countryName": "Singapore",
+				"tags": [],
+				"prefLanguage": "Y",
+				"secondaryPrefLanguage": "N",
+				"url": "www.delta.com"
+			}],
+			"regionCode": "APC",
+			"isRegion": ""
+		},
+		{
+			"countryName": "South Korea",
+			"isoCode": "kr",
+			"urlcc": "kr",
+			"languageDtls": [{
+					"languageCode": "en",
+					"languageName": "English",
+					"countryName": "South Korea",
+					"tags": [],
+					"prefLanguage": "N",
+					"secondaryPrefLanguage": "Y",
+					"url": "www.delta.com"
+				},
+				{
+					"languageCode": "ko",
+					"languageName": "한국어",
+					"countryName": "한국",
+					"tags": [],
+					"prefLanguage": "Y",
+					"secondaryPrefLanguage": "N",
+					"url": "ko.delta.com"
+				}
+			],
+			"regionCode": "APC",
+			"isRegion": ""
+		},
+		{
+			"countryName": "Antigua & Barbuda",
+			"isoCode": "ag",
+			"urlcc": "lac",
+			"languageDtls": [{
+				"languageCode": "en",
+				"languageName": "English",
+				"countryName": "Antigua & Barbuda",
+				"tags": [],
+				"prefLanguage": "Y",
+				"secondaryPrefLanguage": "N",
+				"url": "www.delta.com"
+			}],
+			"regionCode": "CAR",
+			"isRegion": ""
+		},
+		{
+			"countryName": "Aruba & Antilles",
+			"isoCode": "aw",
+			"urlcc": "lac",
+			"languageDtls": [{
+				"languageCode": "en",
+				"languageName": "English",
+				"countryName": "Aruba & Antilles",
+				"tags": [],
+				"prefLanguage": "Y",
+				"secondaryPrefLanguage": "N",
+				"url": "www.delta.com"
+			}],
+			"regionCode": "CAR",
+			"isRegion": ""
+		},
+		{
+			"countryName": "Bahamas",
+			"isoCode": "bs",
+			"urlcc": "lac",
+			"languageDtls": [{
+				"languageCode": "en",
+				"languageName": "English",
+				"countryName": "Bahamas",
+				"tags": [],
+				"prefLanguage": "Y",
+				"secondaryPrefLanguage": "N",
+				"url": "www.delta.com"
+			}],
+			"regionCode": "CAR",
+			"isRegion": ""
+		},
+		{
+			"countryName": "Bermuda",
+			"isoCode": "bm",
+			"urlcc": "lac",
+			"languageDtls": [{
+				"languageCode": "en",
+				"languageName": "English",
+				"countryName": "Bermuda",
+				"tags": [],
+				"prefLanguage": "Y",
+				"secondaryPrefLanguage": "N",
+				"url": "www.delta.com"
+			}],
+			"regionCode": "CAR",
+			"isRegion": ""
+		},
+		{
+			"countryName": "Cayman Islands",
+			"isoCode": "ky",
+			"urlcc": "lac",
+			"languageDtls": [{
+				"languageCode": "en",
+				"languageName": "English",
+				"countryName": "Cayman Islands",
+				"tags": [],
+				"prefLanguage": "Y",
+				"secondaryPrefLanguage": "N",
+				"url": "www.delta.com"
+			}],
+			"regionCode": "CAR",
+			"isRegion": ""
+		},
+		{
+			"countryName": "Cuba",
+			"isoCode": "cu",
+			"urlcc": "lac",
+			"languageDtls": [{
+					"languageCode": "en",
+					"languageName": "English",
+					"countryName": "Cuba",
+					"tags": [],
+					"prefLanguage": "N",
+					"secondaryPrefLanguage": "Y",
+					"url": "www.delta.com"
+				},
+				{
+					"languageCode": "es",
+					"languageName": "Español",
+					"countryName": "Cuba",
+					"tags": [],
+					"prefLanguage": "Y",
+					"secondaryPrefLanguage": "N",
+					"url": "es.delta.com"
+				}
+			],
+			"regionCode": "CAR",
+			"isRegion": ""
+		},
+		{
+			"countryName": "Dominican Republic",
+			"isoCode": "do",
+			"urlcc": "lac",
+			"languageDtls": [{
+					"languageCode": "es",
+					"languageName": "Español",
+					"countryName": "República Dominicana",
+					"tags": [],
+					"prefLanguage": "Y",
+					"secondaryPrefLanguage": "N",
+					"url": "es.delta.com"
+				},
+				{
+					"languageCode": "en",
+					"languageName": "English",
+					"countryName": "Dominican Republic",
+					"tags": [],
+					"prefLanguage": "N",
+					"secondaryPrefLanguage": "Y",
+					"url": "www.delta.com"
+				}
+			],
+			"regionCode": "CAR",
+			"isRegion": ""
+		},
+		{
+			"countryName": "Grenada",
+			"isoCode": "gd",
+			"urlcc": "lac",
+			"languageDtls": [{
+				"languageCode": "en",
+				"languageName": "English",
+				"countryName": "Grenada",
+				"tags": [],
+				"prefLanguage": "Y",
+				"secondaryPrefLanguage": "N",
+				"url": "www.delta.com"
+			}],
+			"regionCode": "CAR",
+			"isRegion": ""
+		},
+		{
+			"countryName": "Haiti",
+			"isoCode": "ht",
+			"urlcc": "lac",
+			"languageDtls": [{
+				"languageCode": "en",
+				"languageName": "English",
+				"countryName": "Haiti",
+				"tags": [],
+				"prefLanguage": "Y",
+				"secondaryPrefLanguage": "N",
+				"url": "www.delta.com"
+			}],
+			"regionCode": "CAR",
+			"isRegion": ""
+		},
+		{
+			"countryName": "Jamaica",
+			"isoCode": "jm",
+			"urlcc": "lac",
+			"languageDtls": [{
+				"languageCode": "en",
+				"languageName": "English",
+				"countryName": "Jamaica",
+				"tags": [],
+				"prefLanguage": "Y",
+				"secondaryPrefLanguage": "N",
+				"url": "www.delta.com"
+			}],
+			"regionCode": "CAR",
+			"isRegion": ""
+		},
+		{
+			"countryName": "Netherlands Antilles",
+			"isoCode": "an",
+			"urlcc": "lac",
+			"languageDtls": [{
+				"languageCode": "en",
+				"languageName": "English",
+				"countryName": "Netherlands Antilles",
+				"tags": [],
+				"prefLanguage": "Y",
+				"secondaryPrefLanguage": "N",
+				"url": "www.delta.com"
+			}],
+			"regionCode": "CAR",
+			"isRegion": ""
+		},
+		{
+			"countryName": "Puerto Rico",
+			"isoCode": "pr",
+			"urlcc": "lac",
+			"languageDtls": [{
+					"languageCode": "en",
+					"languageName": "English",
+					"countryName": "Puerto Rico",
+					"tags": [],
+					"prefLanguage": "Y",
+					"secondaryPrefLanguage": "N",
+					"url": "www.delta.com"
+				},
+				{
+					"languageCode": "es",
+					"languageName": "Español",
+					"countryName": "Puerto Rico",
+					"tags": [],
+					"prefLanguage": "N",
+					"secondaryPrefLanguage": "Y",
+					"url": "es.delta.com"
+				}
+			],
+			"regionCode": "CAR",
+			"isRegion": ""
+		},
+		{
+			"countryName": "St Kitts",
+			"isoCode": "kn",
+			"urlcc": "lac",
+			"languageDtls": [{
+				"languageCode": "en",
+				"languageName": "English",
+				"countryName": "St Kitts",
+				"tags": [],
+				"prefLanguage": "Y",
+				"secondaryPrefLanguage": "N",
+				"url": "www.delta.com"
+			}],
+			"regionCode": "CAR",
+			"isRegion": ""
+		},
+		{
+			"countryName": "St. Lucia",
+			"isoCode": "lc",
+			"urlcc": "lac",
+			"languageDtls": [{
+				"languageCode": "en",
+				"languageName": "English",
+				"countryName": "St. Lucia",
+				"tags": [],
+				"prefLanguage": "Y",
+				"secondaryPrefLanguage": "N",
+				"url": "www.delta.com"
+			}],
+			"regionCode": "CAR",
+			"isRegion": ""
+		},
+		{
+			"countryName": "St. Maarten",
+			"isoCode": "sx",
+			"urlcc": "lac",
+			"languageDtls": [{
+				"languageCode": "en",
+				"languageName": "English",
+				"countryName": "St. Maarten",
+				"tags": [],
+				"prefLanguage": "Y",
+				"secondaryPrefLanguage": "N",
+				"url": "www.delta.com"
+			}],
+			"regionCode": "CAR",
+			"isRegion": ""
+		},
+		{
+			"countryName": "Turks & Caicos",
+			"isoCode": "tc",
+			"urlcc": "lac",
+			"languageDtls": [{
+				"languageCode": "en",
+				"languageName": "English",
+				"countryName": "Turks & Caicos",
+				"tags": [],
+				"prefLanguage": "Y",
+				"secondaryPrefLanguage": "N",
+				"url": "www.delta.com"
+			}],
+			"regionCode": "CAR",
+			"isRegion": ""
+		},
+		{
+			"countryName": "US Virgin Islands",
+			"isoCode": "vi",
+			"urlcc": "lac",
+			"languageDtls": [{
+				"languageCode": "en",
+				"languageName": "English",
+				"countryName": "US Virgin Islands",
+				"tags": [],
+				"prefLanguage": "Y",
+				"secondaryPrefLanguage": "N",
+				"url": "www.delta.com"
+			}],
+			"regionCode": "CAR",
+			"isRegion": ""
+		},
+		{
+			"countryName": "Argentina",
+			"isoCode": "ar",
+			"urlcc": "lac",
+			"languageDtls": [{
+					"languageCode": "en",
+					"languageName": "English",
+					"countryName": "Argentina",
+					"tags": [],
+					"prefLanguage": "N",
+					"secondaryPrefLanguage": "Y",
+					"url": "www.delta.com"
+				},
+				{
+					"languageCode": "es",
+					"languageName": "Español",
+					"countryName": "Argentina",
+					"tags": [],
+					"prefLanguage": "Y",
+					"secondaryPrefLanguage": "N",
+					"url": "es.delta.com"
+				}
+			],
+			"regionCode": "CSA",
+			"isRegion": ""
+		},
+		{
+			"countryName": "Belize",
+			"isoCode": "bz",
+			"urlcc": "lac",
+			"languageDtls": [{
+					"languageCode": "en",
+					"languageName": "English",
+					"countryName": "Belize",
+					"tags": [],
+					"prefLanguage": "N",
+					"secondaryPrefLanguage": "Y",
+					"url": "www.delta.com"
+				},
+				{
+					"languageCode": "es",
+					"languageName": "Español",
+					"countryName": "Belice",
+					"tags": [],
+					"prefLanguage": "Y",
+					"secondaryPrefLanguage": "N",
+					"url": "es.delta.com"
+				}
+			],
+			"regionCode": "CSA",
+			"isRegion": ""
+		},
+		{
+			"countryName": "Brazil",
+			"isoCode": "br",
+			"urlcc": "br",
+			"languageDtls": [{
+					"languageCode": "pt",
+					"languageName": "Português",
+					"countryName": "Brasil",
+					"tags": [],
+					"prefLanguage": "Y",
+					"secondaryPrefLanguage": "N",
+					"url": "pt.delta.com"
+				},
+				{
+					"languageCode": "en",
+					"languageName": "English",
+					"countryName": "Brazil",
+					"tags": [],
+					"prefLanguage": "N",
+					"secondaryPrefLanguage": "Y",
+					"url": "www.delta.com"
+				}
+			],
+			"regionCode": "CSA",
+			"isRegion": ""
+		},
+		{
+			"countryName": "Chile",
+			"isoCode": "cl",
+			"urlcc": "lac",
+			"languageDtls": [{
+					"languageCode": "en",
+					"languageName": "English",
+					"countryName": "Chile",
+					"tags": [],
+					"prefLanguage": "N",
+					"secondaryPrefLanguage": "Y",
+					"url": "www.delta.com"
+				},
+				{
+					"languageCode": "es",
+					"languageName": "Español",
+					"countryName": "Chile",
+					"tags": [],
+					"prefLanguage": "Y",
+					"secondaryPrefLanguage": "N",
+					"url": "es.delta.com"
+				}
+			],
+			"regionCode": "CSA",
+			"isRegion": ""
+		},
+		{
+			"countryName": "Colombia",
+			"isoCode": "co",
+			"urlcc": "lac",
+			"languageDtls": [{
+					"languageCode": "en",
+					"languageName": "English",
+					"countryName": "Colombia",
+					"tags": [],
+					"prefLanguage": "N",
+					"secondaryPrefLanguage": "Y",
+					"url": "www.delta.com"
+				},
+				{
+					"languageCode": "es",
+					"languageName": "Español",
+					"countryName": "Colombia",
+					"tags": [],
+					"prefLanguage": "Y",
+					"secondaryPrefLanguage": "N",
+					"url": "es.delta.com"
+				}
+			],
+			"regionCode": "CSA",
+			"isRegion": ""
+		},
+		{
+			"countryName": "Costa Rica",
+			"isoCode": "cr",
+			"urlcc": "lac",
+			"languageDtls": [{
+					"languageCode": "en",
+					"languageName": "English",
+					"countryName": "Costa Rica",
+					"tags": [],
+					"prefLanguage": "N",
+					"secondaryPrefLanguage": "Y",
+					"url": "www.delta.com"
+				},
+				{
+					"languageCode": "es",
+					"languageName": "Español",
+					"countryName": "Costa Rica",
+					"tags": [],
+					"prefLanguage": "Y",
+					"secondaryPrefLanguage": "N",
+					"url": "es.delta.com"
+				}
+			],
+			"regionCode": "CSA",
+			"isRegion": ""
+		},
+		{
+			"countryName": "Ecuador",
+			"isoCode": "ec",
+			"urlcc": "lac",
+			"languageDtls": [{
+					"languageCode": "en",
+					"languageName": "English",
+					"countryName": "Ecuador",
+					"tags": [],
+					"prefLanguage": "N",
+					"secondaryPrefLanguage": "Y",
+					"url": "www.delta.com"
+				},
+				{
+					"languageCode": "es",
+					"languageName": "Español",
+					"countryName": "Ecuador",
+					"tags": [],
+					"prefLanguage": "Y",
+					"secondaryPrefLanguage": "N",
+					"url": "es.delta.com"
+				}
+			],
+			"regionCode": "CSA",
+			"isRegion": ""
+		},
+		{
+			"countryName": "El Salvador",
+			"isoCode": "sv",
+			"urlcc": "lac",
+			"languageDtls": [{
+					"languageCode": "en",
+					"languageName": "English",
+					"countryName": "El Salvador",
+					"tags": [],
+					"prefLanguage": "N",
+					"secondaryPrefLanguage": "Y",
+					"url": "www.delta.com"
+				},
+				{
+					"languageCode": "es",
+					"languageName": "Español",
+					"countryName": "El Salvador",
+					"tags": [],
+					"prefLanguage": "Y",
+					"secondaryPrefLanguage": "N",
+					"url": "es.delta.com"
+				}
+			],
+			"regionCode": "CSA",
+			"isRegion": ""
+		},
+		{
+			"countryName": "Guatemala",
+			"isoCode": "gt",
+			"urlcc": "lac",
+			"languageDtls": [{
+					"languageCode": "en",
+					"languageName": "English",
+					"countryName": "Guatemala",
+					"tags": [],
+					"prefLanguage": "N",
+					"secondaryPrefLanguage": "Y",
+					"url": "www.delta.com"
+				},
+				{
+					"languageCode": "es",
+					"languageName": "Español",
+					"countryName": "Guatemala",
+					"tags": [],
+					"prefLanguage": "Y",
+					"secondaryPrefLanguage": "N",
+					"url": "es.delta.com"
+				}
+			],
+			"regionCode": "CSA",
+			"isRegion": ""
+		},
+		{
+			"countryName": "Honduras",
+			"isoCode": "hn",
+			"urlcc": "lac",
+			"languageDtls": [{
+					"languageCode": "en",
+					"languageName": "English",
+					"countryName": "Honduras",
+					"tags": [],
+					"prefLanguage": "N",
+					"secondaryPrefLanguage": "Y",
+					"url": "www.delta.com"
+				},
+				{
+					"languageCode": "es",
+					"languageName": "Español",
+					"countryName": "Honduras",
+					"tags": [],
+					"prefLanguage": "Y",
+					"secondaryPrefLanguage": "N",
+					"url": "es.delta.com"
+				}
+			],
+			"regionCode": "CSA",
+			"isRegion": ""
+		},
+		{
+			"countryName": "Nicaragua",
+			"isoCode": "ni",
+			"urlcc": "lac",
+			"languageDtls": [{
+					"languageCode": "en",
+					"languageName": "English",
+					"countryName": "Nicaragua",
+					"tags": [],
+					"prefLanguage": "N",
+					"secondaryPrefLanguage": "Y",
+					"url": "www.delta.com"
+				},
+				{
+					"languageCode": "es",
+					"languageName": "Español",
+					"countryName": "Nicaragua",
+					"tags": [],
+					"prefLanguage": "Y",
+					"secondaryPrefLanguage": "N",
+					"url": "es.delta.com"
+				}
+			],
+			"regionCode": "CSA",
+			"isRegion": ""
+		},
+		{
+			"countryName": "Panama",
+			"isoCode": "pa",
+			"urlcc": "lac",
+			"languageDtls": [{
+					"languageCode": "en",
+					"languageName": "English",
+					"countryName": "Panama",
+					"tags": [],
+					"prefLanguage": "N",
+					"secondaryPrefLanguage": "Y",
+					"url": "www.delta.com"
+				},
+				{
+					"languageCode": "es",
+					"languageName": "Español",
+					"countryName": "Panamá",
+					"tags": [],
+					"prefLanguage": "Y",
+					"secondaryPrefLanguage": "N",
+					"url": "es.delta.com"
+				}
+			],
+			"regionCode": "CSA",
+			"isRegion": ""
+		},
+		{
+			"countryName": "Peru",
+			"isoCode": "pe",
+			"urlcc": "lac",
+			"languageDtls": [{
+					"languageCode": "en",
+					"languageName": "English",
+					"countryName": "Peru",
+					"tags": [],
+					"prefLanguage": "N",
+					"secondaryPrefLanguage": "Y",
+					"url": "www.delta.com"
+				},
+				{
+					"languageCode": "es",
+					"languageName": "Español",
+					"countryName": "Perú",
+					"tags": [],
+					"prefLanguage": "Y",
+					"secondaryPrefLanguage": "N",
+					"url": "es.delta.com"
+				}
+			],
+			"regionCode": "CSA",
+			"isRegion": ""
+		},
+		{
+			"countryName": "Belgium",
+			"isoCode": "be",
+			"urlcc": "eu",
+			"languageDtls": [{
+					"languageCode": "fr",
+					"languageName": "Français",
+					"countryName": "Belgique",
+					"tags": [],
+					"prefLanguage": "N",
+					"secondaryPrefLanguage": "Y",
+					"url": "fr.delta.com"
+				},
+				{
+					"languageCode": "en",
+					"languageName": "English",
+					"countryName": "Belgium",
+					"tags": [],
+					"prefLanguage": "Y",
+					"secondaryPrefLanguage": "Y",
+					"url": "www.delta.com"
+				}
+			],
+			"regionCode": "EUR",
+			"isRegion": ""
+		},
+		{
+			"countryName": "Czech Republic",
+			"isoCode": "cz",
+			"urlcc": "eu",
+			"languageDtls": [{
+				"languageCode": "en",
+				"languageName": "English",
+				"countryName": "Czech Republic",
+				"tags": [],
+				"prefLanguage": "Y",
+				"secondaryPrefLanguage": "N",
+				"url": "www.delta.com"
+			}],
+			"regionCode": "EUR",
+			"isRegion": ""
+		},
+		{
+			"countryName": "Denmark",
+			"isoCode": "dk",
+			"urlcc": "eu",
+			"languageDtls": [{
+				"languageCode": "en",
+				"languageName": "English",
+				"countryName": "Denmark",
+				"tags": [],
+				"prefLanguage": "Y",
+				"secondaryPrefLanguage": "N",
+				"url": "www.delta.com"
+			}],
+			"regionCode": "EUR",
+			"isRegion": ""
+		},
+		{
+			"countryName": "France",
+			"isoCode": "fr",
+			"urlcc": "fr",
+			"languageDtls": [{
+					"languageCode": "fr",
+					"languageName": "Français",
+					"countryName": "France",
+					"tags": [],
+					"prefLanguage": "Y",
+					"secondaryPrefLanguage": "N",
+					"url": "fr.delta.com"
+				},
+				{
+					"languageCode": "en",
+					"languageName": "English",
+					"countryName": "France",
+					"tags": [],
+					"prefLanguage": "N",
+					"secondaryPrefLanguage": "Y",
+					"url": "www.delta.com"
+				}
+			],
+			"regionCode": "EUR",
+			"isRegion": ""
+		},
+		{
+			"countryName": "Germany",
+			"isoCode": "de",
+			"urlcc": "eu",
+			"languageDtls": [{
+					"languageCode": "de",
+					"languageName": "Deutsch",
+					"countryName": "Deutschland",
+					"tags": [],
+					"prefLanguage": "Y",
+					"secondaryPrefLanguage": "N",
+					"url": "de.delta.com"
+				},
+				{
+					"languageCode": "en",
+					"languageName": "English",
+					"countryName": "Germany",
+					"tags": [],
+					"prefLanguage": "N",
+					"secondaryPrefLanguage": "Y",
+					"url": "www.delta.com"
+				}
+			],
+			"regionCode": "EUR",
+			"isRegion": ""
+		},
+		{
+			"countryName": "Greece",
+			"isoCode": "gr",
+			"urlcc": "eu",
+			"languageDtls": [{
+				"languageCode": "en",
+				"languageName": "English",
+				"countryName": "Greece",
+				"tags": [],
+				"prefLanguage": "Y",
+				"secondaryPrefLanguage": "N",
+				"url": "www.delta.com"
+			}],
+			"regionCode": "EUR",
+			"isRegion": ""
+		},
+		{
+			"countryName": "Iceland",
+			"isoCode": "is",
+			"urlcc": "eu",
+			"languageDtls": [{
+				"languageCode": "en",
+				"languageName": "English",
+				"countryName": "Iceland",
+				"tags": [],
+				"prefLanguage": "Y",
+				"secondaryPrefLanguage": "N",
+				"url": "www.delta.com"
+			}],
+			"regionCode": "EUR",
+			"isRegion": ""
+		},
+		{
+			"countryName": "Ireland",
+			"isoCode": "ie",
+			"urlcc": "eu",
+			"languageDtls": [{
+				"languageCode": "en",
+				"languageName": "English",
+				"countryName": "Ireland",
+				"tags": [],
+				"prefLanguage": "Y",
+				"secondaryPrefLanguage": "N",
+				"url": "www.delta.com"
+			}],
+			"regionCode": "EUR",
+			"isRegion": ""
+		},
+		{
+			"countryName": "Italy",
+			"isoCode": "it",
+			"urlcc": "eu",
+			"languageDtls": [{
+					"languageCode": "it",
+					"languageName": "Italiano",
+					"countryName": "Italia",
+					"tags": [],
+					"prefLanguage": "Y",
+					"secondaryPrefLanguage": "N",
+					"url": "it.delta.com"
+				},
+				{
+					"languageCode": "en",
+					"languageName": "English",
+					"countryName": "Italy",
+					"tags": [],
+					"prefLanguage": "N",
+					"secondaryPrefLanguage": "Y",
+					"url": "www.delta.com"
+				}
+			],
+			"regionCode": "EUR",
+			"isRegion": ""
+		},
+		{
+			"countryName": "Netherlands",
+			"isoCode": "nl",
+			"urlcc": "eu",
+			"languageDtls": [{
+                    "languageCode": "nl",
+                    "languageName": "Nederlands",
+                    "countryName": "Nederland",
+                    "tags": [],
+                    "prefLanguage": "Y",
+                    "secondaryPrefLanguage": "N",
+                    "url": "nl.delta.com"
+                },
+                {
+                    "languageCode": "en",
+                    "languageName": "English",
+                    "countryName": "Netherlands",
+                    "tags": [],
+                    "prefLanguage": "Y",
+                    "secondaryPrefLanguage": "N",
+                    "url": "www.delta.com"
+                }
+            ],
+			"regionCode": "EUR",
+			"isRegion": ""
+		},
+		{
+			"countryName": "Portugal",
+			"isoCode": "pt",
+			"urlcc": "eu",
+			"languageDtls": [{
+					"languageCode": "pt",
+					"languageName": "Português",
+					"countryName": "Portugal",
+					"tags": [],
+					"prefLanguage": "Y",
+					"secondaryPrefLanguage": "N",
+					"url": "pt.delta.com"
+				},
+				{
+					"languageCode": "en",
+					"languageName": "English",
+					"countryName": "Portugal",
+					"tags": [],
+					"prefLanguage": "N",
+					"secondaryPrefLanguage": "Y",
+					"url": "www.delta.com"
+				}
+			],
+			"regionCode": "EUR",
+			"isRegion": ""
+		},
+		{
+			"countryName": "Spain",
+			"isoCode": "es",
+			"urlcc": "eu",
+			"languageDtls": [{
+					"languageCode": "es",
+					"languageName": "Español",
+					"countryName": "España",
+					"tags": [],
+					"prefLanguage": "Y",
+					"secondaryPrefLanguage": "N",
+					"url": "es.delta.com"
+				},
+				{
+					"languageCode": "en",
+					"languageName": "English",
+					"countryName": "Spain",
+					"tags": [],
+					"prefLanguage": "N",
+					"secondaryPrefLanguage": "Y",
+					"url": "www.delta.com"
+				}
+			],
+			"regionCode": "EUR",
+			"isRegion": ""
+		},
+		{
+			"countryName": "Sweden",
+			"isoCode": "se",
+			"urlcc": "eu",
+			"languageDtls": [{
+				"languageCode": "en",
+				"languageName": "English",
+				"countryName": "Sweden",
+				"tags": [],
+				"prefLanguage": "Y",
+				"secondaryPrefLanguage": "N",
+				"url": "www.delta.com"
+			}],
+			"regionCode": "EUR",
+			"isRegion": ""
+		},
+		{
+			"countryName": "Switzerland",
+			"isoCode": "ch",
+			"urlcc": "eu",
+			"languageDtls": [{
+					"languageCode": "en",
+					"languageName": "English",
+					"countryName": "Switzerland",
+					"tags": [],
+					"prefLanguage": "N",
+					"secondaryPrefLanguage": "Y",
+					"url": "www.delta.com"
+				},
+				{
+					"languageCode": "it",
+					"languageName": "Italiano",
+					"countryName": "Svizzera",
+					"tags": [],
+					"prefLanguage": "N",
+					"secondaryPrefLanguage": "N",
+					"url": "it.delta.com"
+				},
+				{
+					"languageCode": "de",
+					"languageName": "Deutsch",
+					"countryName": "Schweiz",
+					"tags": [],
+					"prefLanguage": "Y",
+					"secondaryPrefLanguage": "N",
+					"url": "de.delta.com"
+				},
+				{
+					"languageCode": "fr",
+					"languageName": "Français",
+					"countryName": "Suisse",
+					"tags": [],
+					"prefLanguage": "N",
+					"secondaryPrefLanguage": "N",
+					"url": "fr.delta.com"
+				}
+			],
+			"regionCode": "EUR",
+			"isRegion": ""
+		},
+		{
+			"countryName": "United Kingdom",
+			"isoCode": "gb",
+			"urlcc": "gb",
+			"languageDtls": [{
+				"languageCode": "en",
+				"languageName": "English",
+				"countryName": "United Kingdom",
+				"tags": [],
+				"prefLanguage": "Y",
+				"secondaryPrefLanguage": "N",
+				"url": "www.delta.com"
+			}],
+			"regionCode": "EUR",
+			"isRegion": ""
+		},
+		{
+			"countryName": "Austria",
+			"isoCode": "at",
+			"urlcc": "eu",
+			"languageDtls": [{
+				"languageCode": "en",
+				"languageName": "English",
+				"countryName": "Austria",
+				"tags": [],
+				"prefLanguage": "Y",
+				"secondaryPrefLanguage": "N",
+				"url": "www.delta.com"
+			}],
+			"regionCode": "EUR",
+			"isRegion": ""
+		},
+		{
+			"countryName": "Bulgaria",
+			"isoCode": "bg",
+			"urlcc": "eu",
+			"languageDtls": [{
+				"languageCode": "en",
+				"languageName": "English",
+				"countryName": "Bulgaria",
+				"tags": [],
+				"prefLanguage": "Y",
+				"secondaryPrefLanguage": "N",
+				"url": "www.delta.com"
+			}],
+			"regionCode": "EUR",
+			"isRegion": ""
+		},
+		{
+			"countryName": "Croatia",
+			"isoCode": "hr",
+			"urlcc": "eu",
+			"languageDtls": [{
+				"languageCode": "en",
+				"languageName": "English",
+				"countryName": "Croatia",
+				"tags": [],
+				"prefLanguage": "Y",
+				"secondaryPrefLanguage": "N",
+				"url": "www.delta.com"
+			}],
+			"regionCode": "EUR",
+			"isRegion": ""
+		},
+		{
+			"countryName": "Lithuania",
+			"isoCode": "lt",
+			"urlcc": "eu",
+			"languageDtls": [{
+				"languageCode": "en",
+				"languageName": "English",
+				"countryName": "Lithuania",
+				"tags": [],
+				"prefLanguage": "Y",
+				"secondaryPrefLanguage": "N",
+				"url": "www.delta.com"
+			}],
+			"regionCode": "EUR",
+			"isRegion": ""
+		},
+		{
+			"countryName": "Luxembourg",
+			"isoCode": "lu",
+			"urlcc": "eu",
+			"languageDtls": [{
+				"languageCode": "en",
+				"languageName": "English",
+				"countryName": "Luxembourg",
+				"tags": [],
+				"prefLanguage": "Y",
+				"secondaryPrefLanguage": "N",
+				"url": "www.delta.com"
+			}],
+			"regionCode": "EUR",
+			"isRegion": ""
+		},
+		{
+			"countryName": "Hungary",
+			"isoCode": "hu",
+			"urlcc": "eu",
+			"languageDtls": [{
+				"languageCode": "en",
+				"languageName": "English",
+				"countryName": "Hungary",
+				"tags": [],
+				"prefLanguage": "Y",
+				"secondaryPrefLanguage": "N",
+				"url": "www.delta.com"
+			}],
+			"regionCode": "EUR",
+			"isRegion": ""
+		},
+		{
+			"countryName": "Malta",
+			"isoCode": "mt",
+			"urlcc": "eu",
+			"languageDtls": [{
+				"languageCode": "en",
+				"languageName": "English",
+				"countryName": "Malta",
+				"tags": [],
+				"prefLanguage": "Y",
+				"secondaryPrefLanguage": "N",
+				"url": "www.delta.com"
+			}],
+			"regionCode": "EUR",
+			"isRegion": ""
+		},
+		{
+			"countryName": "Romania",
+			"isoCode": "ro",
+			"urlcc": "eu",
+			"languageDtls": [{
+				"languageCode": "en",
+				"languageName": "English",
+				"countryName": "Romania",
+				"tags": [],
+				"prefLanguage": "Y",
+				"secondaryPrefLanguage": "N",
+				"url": "www.delta.com"
+			}],
+			"regionCode": "EUR",
+			"isRegion": ""
+		},
+		{
+			"countryName": "Slovenia",
+			"isoCode": "si",
+			"urlcc": "eu",
+			"languageDtls": [{
+				"languageCode": "en",
+				"languageName": "English",
+				"countryName": "Slovenia",
+				"tags": [],
+				"prefLanguage": "Y",
+				"secondaryPrefLanguage": "N",
+				"url": "www.delta.com"
+			}],
+			"regionCode": "EUR",
+			"isRegion": ""
+		},
+		{
+			"countryName": "Slovakia",
+			"isoCode": "sk",
+			"urlcc": "eu",
+			"languageDtls": [{
+				"languageCode": "en",
+				"languageName": "English",
+				"countryName": "Slovakia",
+				"tags": [],
+				"prefLanguage": "Y",
+				"secondaryPrefLanguage": "N",
+				"url": "www.delta.com"
+			}],
+			"regionCode": "EUR",
+			"isRegion": ""
+		},
+		{
+			"countryName": "Cypress",
+			"isoCode": "cy",
+			"urlcc": "eu",
+			"languageDtls": [{
+				"languageCode": "en",
+				"languageName": "English",
+				"countryName": "Cypress",
+				"tags": [],
+				"prefLanguage": "Y",
+				"secondaryPrefLanguage": "N",
+				"url": "www.delta.com"
+			}],
+			"regionCode": "EUR",
+			"isRegion": ""
+		},
+		{
+			"countryName": "Latvia",
+			"isoCode": "lv",
+			"urlcc": "eu",
+			"languageDtls": [{
+				"languageCode": "en",
+				"languageName": "English",
+				"countryName": "Latvia",
+				"tags": [],
+				"prefLanguage": "Y",
+				"secondaryPrefLanguage": "N",
+				"url": "www.delta.com"
+			}],
+			"regionCode": "EUR",
+			"isRegion": ""
+		},
+		{
+			"countryName": "Poland",
+			"isoCode": "pl",
+			"urlcc": "eu",
+			"languageDtls": [{
+				"languageCode": "en",
+				"languageName": "English",
+				"countryName": "Poland",
+				"tags": [],
+				"prefLanguage": "Y",
+				"secondaryPrefLanguage": "N",
+				"url": "www.delta.com"
+			}],
+			"regionCode": "EUR",
+			"isRegion": ""
+		},
+		{
+			"countryName": "Finland",
+			"isoCode": "fi",
+			"urlcc": "eu",
+			"languageDtls": [{
+				"languageCode": "en",
+				"languageName": "English",
+				"countryName": "Finland",
+				"tags": [],
+				"prefLanguage": "Y",
+				"secondaryPrefLanguage": "N",
+				"url": "www.delta.com"
+			}],
+			"regionCode": "EUR",
+			"isRegion": ""
+		},
+		{
+			"countryName": "Liechenstein",
+			"isoCode": "li",
+			"urlcc": "eu",
+			"languageDtls": [{
+				"languageCode": "en",
+				"languageName": "English",
+				"countryName": "Liechenstein",
+				"tags": [],
+				"prefLanguage": "Y",
+				"secondaryPrefLanguage": "N",
+				"url": "www.delta.com"
+			}],
+			"regionCode": "EUR",
+			"isRegion": ""
+		},
+		{
+			"countryName": "Norway",
+			"isoCode": "no",
+			"urlcc": "eu",
+			"languageDtls": [{
+				"languageCode": "en",
+				"languageName": "English",
+				"countryName": "Norway",
+				"tags": [],
+				"prefLanguage": "Y",
+				"secondaryPrefLanguage": "N",
+				"url": "www.delta.com"
+			}],
+			"regionCode": "EUR",
+			"isRegion": ""
+		},
+		{
+			"countryName": "Turkey",
+			"isoCode": "tr",
+			"urlcc": "eu",
+			"languageDtls": [{
+				"languageCode": "en",
+				"languageName": "English",
+				"countryName": "Turkey",
+				"tags": [],
+				"prefLanguage": "Y",
+				"secondaryPrefLanguage": "N",
+				"url": "www.delta.com"
+			}],
+			"regionCode": "EUR",
+			"isRegion": ""
+		},
+		{
+			"countryName": "Serbia",
+			"isoCode": "rs",
+			"urlcc": "eu",
+			"languageDtls": [{
+				"languageCode": "en",
+				"languageName": "English",
+				"countryName": "Serbia",
+				"tags": [],
+				"prefLanguage": "Y",
+				"secondaryPrefLanguage": "N",
+				"url": "www.delta.com"
+			}],
+			"regionCode": "EUR",
+			"isRegion": ""
+		},
+		{
+			"countryName": "Montenegro",
+			"isoCode": "me",
+			"urlcc": "eu",
+			"languageDtls": [{
+				"languageCode": "en",
+				"languageName": "English",
+				"countryName": "Montenegro",
+				"tags": [],
+				"prefLanguage": "Y",
+				"secondaryPrefLanguage": "N",
+				"url": "www.delta.com"
+			}],
+			"regionCode": "EUR",
+			"isRegion": ""
+		},
+		{
+			"countryName": "North Macedonia",
+			"isoCode": "mk",
+			"urlcc": "eu",
+			"languageDtls": [{
+				"languageCode": "en",
+				"languageName": "English",
+				"countryName": "North Macedonia",
+				"tags": [],
+				"prefLanguage": "Y",
+				"secondaryPrefLanguage": "N",
+				"url": "www.delta.com"
+			}],
+			"regionCode": "EUR",
+			"isRegion": ""
+		},
+		{
+			"countryName": "Bosnia",
+			"isoCode": "ba",
+			"urlcc": "eu",
+			"languageDtls": [{
+				"languageCode": "en",
+				"languageName": "English",
+				"countryName": "Bosnia",
+				"tags": [],
+				"prefLanguage": "Y",
+				"secondaryPrefLanguage": "N",
+				"url": "www.delta.com"
+			}],
+			"regionCode": "EUR",
+			"isRegion": ""
+		},
+		{
+			"countryName": "Albania",
+			"isoCode": "al",
+			"urlcc": "eu",
+			"languageDtls": [{
+				"languageCode": "en",
+				"languageName": "English",
+				"countryName": "Albania",
+				"tags": [],
+				"prefLanguage": "Y",
+				"secondaryPrefLanguage": "N",
+				"url": "www.delta.com"
+			}],
+			"regionCode": "EUR",
+			"isRegion": ""
+		},
+		{
+			"countryName": "Kosovo",
+			"isoCode": "xk",
+			"urlcc": "eu",
+			"languageDtls": [{
+				"languageCode": "en",
+				"languageName": "English",
+				"countryName": "Kosovo",
+				"tags": [],
+				"prefLanguage": "Y",
+				"secondaryPrefLanguage": "N",
+				"url": "www.delta.com"
+			}],
+			"regionCode": "EUR",
+			"isRegion": ""
+		},
+		{
+			"countryName": "Canada",
+			"isoCode": "ca",
+			"urlcc": "ca",
+			"languageDtls": [{
+					"languageCode": "en",
+					"languageName": "English",
+					"countryName": "Canada",
+					"tags": [],
+					"prefLanguage": "Y",
+					"secondaryPrefLanguage": "N",
+					"url": "www.delta.com"
+				},
+				{
+					"languageCode": "fr",
+					"languageName": "Français",
+					"countryName": "Canada",
+					"tags": [],
+					"prefLanguage": "N",
+					"secondaryPrefLanguage": "Y",
+					"url": "fr.delta.com"
+				}
+			],
+			"regionCode": "NAM",
+			"isRegion": ""
+		},
+		{
+			"countryName": "Mexico",
+			"isoCode": "mx",
+			"urlcc": "mx",
+			"languageDtls": [{
+					"languageCode": "en",
+					"languageName": "English",
+					"countryName": "Mexico",
+					"tags": [],
+					"prefLanguage": "N",
+					"secondaryPrefLanguage": "Y",
+					"url": "www.delta.com"
+				},
+				{
+					"languageCode": "es",
+					"languageName": "Español",
+					"countryName": "México",
+					"tags": [],
+					"prefLanguage": "Y",
+					"secondaryPrefLanguage": "N",
+					"url": "es.delta.com"
+				}
+			],
+			"regionCode": "NAM",
+			"isRegion": ""
+		},
+		{
+			"countryName": "United States",
+			"isoCode": "us",
+			"urlcc": "us",
+			"languageDtls": [{
+					"languageCode": "es",
+					"languageName": "Español",
+					"countryName": "Estados Unidos",
+					"tags": [],
+					"prefLanguage": "N",
+					"secondaryPrefLanguage": "Y",
+					"url": "es.delta.com"
+				},
+				{
+					"languageCode": "en",
+					"languageName": "English",
+					"countryName": "United States",
+					"tags": [],
+					"prefLanguage": "Y",
+					"secondaryPrefLanguage": "N",
+					"url": "www.delta.com"
+				}
+			],
+			"regionCode": "NAM",
+			"isRegion": ""
+		},
+		{
+			"countryName": "lac",
+			"isoCode": "car",
+			"urlcc": "lac",
+			"languageDtls": [{
+				"languageCode": "en",
+				"languageName": "English",
+				"countryName": "Caribbean",
+				"tags": [],
+				"prefLanguage": "Y",
+				"secondaryPrefLanguage": "N",
+				"url": "www.delta.com"
+			}],
+			"regionCode": "CAR",
+			"isRegion": "Y"
+		},
+		{
+			"countryName": "lac",
+			"isoCode": "lac",
+			"urlcc": "lac",
+			"languageDtls": [{
+					"languageCode": "en",
+					"languageName": "English",
+					"countryName": "Central & South America",
+					"tags": [],
+					"prefLanguage": "N",
+					"secondaryPrefLanguage": "Y",
+					"url": "www.delta.com"
+				},
+				{
+					"languageCode": "es",
+					"languageName": "Español",
+					"countryName": "América Central y del Sur",
+					"tags": [],
+					"prefLanguage": "Y",
+					"secondaryPrefLanguage": "N",
+					"url": "es.delta.com"
+				}
+			],
+			"regionCode": "CSA",
+			"isRegion": "Y"
+		},
+		{
+			"countryName": "apac",
+			"isoCode": "apac",
+			"urlcc": "apac",
+			"languageDtls": [{
+				"languageCode": "en",
+				"languageName": "English",
+				"countryName": "Asia & Pacific",
+				"tags": [],
+				"prefLanguage": "Y",
+				"secondaryPrefLanguage": "N",
+				"url": "www.delta.com"
+			}],
+			"regionCode": "APC",
+			"isRegion": "Y"
+		},
+		{
+			"countryName": "eu",
+			"isoCode": "eu",
+			"urlcc": "eu",
+			"languageDtls": [{
+				"languageCode": "en",
+				"languageName": "English",
+				"countryName": "Europe",
+				"tags": [],
+				"prefLanguage": "Y",
+				"secondaryPrefLanguage": "N",
+				"url": "www.delta.com"
+			}],
+			"regionCode": "EUR",
+			"isRegion": "Y"
+		},
+		{
+			"countryName": "mea",
+			"isoCode": "mea",
+			"urlcc": "mea",
+			"languageDtls": [{
+				"languageCode": "en",
+				"languageName": "English",
+				"countryName": "Middle East & Africa",
+				"tags": [],
+				"prefLanguage": "Y",
+				"secondaryPrefLanguage": "N",
+				"url": "www.delta.com"
+			}],
+			"regionCode": "MEA",
+			"isRegion": "Y"
+		}
+	],
+	"regionlist": [{
+			"region_name": "North America",
+			"region_codes": [
+				"NAM"
+			],
+			"translated_regions": [{
+					"languageCode": "en",
+					"region_name": "North America"
+				},
+				{
+					"languageCode": "de",
+					"region_name": "Nordamerika"
+				},
+				{
+					"languageCode": "es",
+					"region_name": "Norteamérica"
+				},
+				{
+					"languageCode": "fr",
+					"region_name": "Amérique Du Nord"
+				},
+				{
+					"languageCode": "it",
+					"region_name": "America Settentrionale"
+				},
+				{
+					"languageCode": "pt",
+					"region_name": "América do Norte"
+				},
+				{
+					"languageCode": "ru",
+					"region_name": "Северная Америка"
+				},
+				{
+					"languageCode": "ko",
+					"region_name": "북미"
+				},
+				{
+					"languageCode": "ja",
+					"region_name": "北米"
+				},
+				{
+					"languageCode": "zh",
+					"region_name": "北美洲"
+				},
+				{
+					"languageCode": "zt",
+					"region_name": "北美洲"
+				},
+				{
+					"languageCode": "nl",
+					"region_name": "Noord-Amerika"
+				}
+			]
+		},
+		{
+			"region_name": "Caribbean",
+			"region_codes": [
+				"CAR"
+			],
+			"translated_regions": [{
+					"languageCode": "en",
+					"region_name": "Caribbean"
+				},
+				{
+					"languageCode": "de",
+					"region_name": "Karibik"
+				},
+				{
+					"languageCode": "es",
+					"region_name": "El Caribe"
+				},
+				{
+					"languageCode": "fr",
+					"region_name": "Caraïbes"
+				},
+				{
+					"languageCode": "it",
+					"region_name": "Caraibi"
+				},
+				{
+					"languageCode": "pt",
+					"region_name": "Caribe"
+				},
+				{
+					"languageCode": "ru",
+					"region_name": "Карибский"
+				},
+				{
+					"languageCode": "ko",
+					"region_name": "카리브해"
+				},
+				{
+					"languageCode": "ja",
+					"region_name": "キャリバーン"
+				},
+				{
+					"languageCode": "zh",
+					"region_name": "加勒比"
+				},
+				{
+					"languageCode": "zt",
+					"region_name": "加勒比"
+				},
+				{
+					"languageCode": "nl",
+					"region_name": "Caribisch"
+				}
+			]
+		},
+		{
+			"region_name": "Central & South America",
+			"region_codes": [
+				"CSA"
+			],
+			"translated_regions": [{
+					"languageCode": "en",
+					"region_name": "Central & South America"
+				},
+				{
+					"languageCode": "de",
+					"region_name": "Zentral- und Südamerika"
+				},
+				{
+					"languageCode": "es",
+					"region_name": "América Central y del Sur"
+				},
+				{
+					"languageCode": "fr",
+					"region_name": "Amérique Centrale et du Sud"
+				},
+				{
+					"languageCode": "it",
+					"region_name": "America Centrale e del Sud"
+				},
+				{
+					"languageCode": "pt",
+					"region_name": "América Central e do Sul"
+				},
+				{
+					"languageCode": "ru",
+					"region_name": "Центральная и Южная Америка"
+				},
+				{
+					"languageCode": "ko",
+					"region_name": "중남미"
+				},
+				{
+					"languageCode": "ja",
+					"region_name": "中南米"
+				},
+				{
+					"languageCode": "zh",
+					"region_name": "中南美洲"
+				},
+				{
+					"languageCode": "zt",
+					"region_name": "中南美洲"
+				},
+				{
+					"languageCode": "nl",
+					"region_name": "Midden- en Zuid-Amerika"
+				}
+			]
+		},
+		{
+			"region_name": "Europe",
+			"region_codes": [
+				"EUR"
+			],
+			"translated_regions": [{
+					"languageCode": "en",
+					"region_name": "Europe"
+				},
+				{
+					"languageCode": "de",
+					"region_name": "Europa"
+				},
+				{
+					"languageCode": "es",
+					"region_name": "Europa"
+				},
+				{
+					"languageCode": "fr",
+					"region_name": "Europe"
+				},
+				{
+					"languageCode": "it",
+					"region_name": "Europa"
+				},
+				{
+					"languageCode": "pt",
+					"region_name": "Europa"
+				},
+				{
+					"languageCode": "ru",
+					"region_name": "Европа"
+				},
+				{
+					"languageCode": "ko",
+					"region_name": "유럽"
+				},
+				{
+					"languageCode": "ja",
+					"region_name": "ヨーロッパ"
+				},
+				{
+					"languageCode": "zh",
+					"region_name": "欧洲"
+				},
+				{
+					"languageCode": "zt",
+					"region_name": "歐洲"
+				},
+				{
+					"languageCode": "nl",
+					"region_name": "Europa"
+				}
+			]
+		},
+		{
+			"region_name": "Asia & Pacific",
+			"region_codes": [
+				"APC"
+			],
+			"translated_regions": [{
+					"languageCode": "en",
+					"region_name": "Asia & Pacific"
+				},
+				{
+					"languageCode": "de",
+					"region_name": "Asien-Pazifik"
+				},
+				{
+					"languageCode": "es",
+					"region_name": "Asia y el Pacífico"
+				},
+				{
+					"languageCode": "fr",
+					"region_name": "Asie-Pacifique"
+				},
+				{
+					"languageCode": "it",
+					"region_name": "Asia e Pacifico"
+				},
+				{
+					"languageCode": "pt",
+					"region_name": "Ásia e Pacífico"
+				},
+				{
+					"languageCode": "ru",
+					"region_name": "Азиатско-Тихоокеанский Регион"
+				},
+				{
+					"languageCode": "ko",
+					"region_name": "아시아 태평양"
+				},
+				{
+					"languageCode": "ja",
+					"region_name": "アジア太平洋地域"
+				},
+				{
+					"languageCode": "zh",
+					"region_name": "亚太地区"
+				},
+				{
+					"languageCode": "zt",
+					"region_name": "亞太地區"
+				},
+				{
+					"languageCode": "nl",
+					"region_name": "Azië en Pacifische"
+				}
+			]
+		},
+		{
+			"region_name": "Africa & Middle East",
+			"region_codes": [
+				"MEA"
+			],
+			"translated_regions": [{
+					"languageCode": "en",
+					"region_name": "Africa & Middle East"
+				},
+				{
+					"languageCode": "de",
+					"region_name": "Afrika und In Den Nahen Osten"
+				},
+				{
+					"languageCode": "es",
+					"region_name": "África y Oriente Medio"
+				},
+				{
+					"languageCode": "fr",
+					"region_name": "Afrique et Moyen-Orient"
+				},
+				{
+					"languageCode": "it",
+					"region_name": "Africa e Medio Oriente"
+				},
+				{
+					"languageCode": "pt",
+					"region_name": "África e Oriente Médio"
+				},
+				{
+					"languageCode": "ru",
+					"region_name": "Африка и Ближний Восток"
+				},
+				{
+					"languageCode": "ko",
+					"region_name": "아프리카 및 중동"
+				},
+				{
+					"languageCode": "ja",
+					"region_name": "アフリカ & 中東"
+				},
+				{
+					"languageCode": "zh",
+					"region_name": "非洲及中东"
+				},
+				{
+					"languageCode": "zt",
+					"region_name": "非洲與中東"
+				},
+				{
+					"languageCode": "nl",
+					"region_name": "Afrika en Midden-Oosten"
+				}
+			]
+		}
+	],
+	"translated-text": {
+		"en": {
+			"welcome-delta": "Welcome to Delta",
+			"cls-title": "Select Location & Language",
+			"cls-search-placeholder": "Search",
+			"cls-region": "Regions",
+			"cls-location": "Location & Language",
+			"cls-display-button": "Display this page in English",
+			"cls-search-label": "Search"
+		},
+		"de": {
+			"welcome-delta": "Willkommen bei Delta",
+			"cls-title": "Ort und Sprache auswählen",
+			"cls-search-placeholder": "Suche",
+			"cls-region": "Regionen",
+			"cls-location": "Ort und Sprache",
+			"cls-display-button": "Zeige diese Seite auf Deutsch",
+			"cls-search-label": "Search"
+		},
+		"fr": {
+			"welcome-delta": "Bienvenue chez Delta",
+			"cls-title": "Sélectionnez un lieu et une langue",
+			"cls-search-placeholder": "Rechercher",
+			"cls-region": "Régions",
+			"cls-location": "Pays et langue",
+			"cls-display-button": "Afficher cette page en français",
+			"cls-search-label": "Search"
+		},
+		"it": {
+			"welcome-delta": "Benvenuti in Delta",
+			"cls-title": "Seleziona ubicazione e lingua",
+			"cls-search-placeholder": "Cerca",
+			"cls-region": "Regioni",
+			"cls-location": "Paese e lingua",
+			"cls-display-button": "Mostra questa pagina in italiano",
+			"cls-search-label": "Search"
+		},
+		"pt": {
+			"welcome-delta": "Bem-vindo a Delta",
+			"cls-title": "Selecionar local e idioma",
+			"cls-search-placeholder": "Busca",
+			"cls-region": "Regiões",
+			"cls-location": "Local e idioma",
+			"cls-display-button": "Mostrar esta página em português",
+			"cls-search-label": "Search"
+		},
+		"ru": {
+			"welcome-delta": "Добро пожаловать в Delta",
+			"cls-title": "Выбрать страну и язык",
+			"cls-search-placeholder": "Поиск",
+			"cls-region": "Регионы",
+			"cls-location": "Страна и язык",
+			"cls-display-button": "Показать эту страницу на Русском языке",
+			"cls-search-label": "Search"
+		},
+		"ko": {
+			"welcome-delta": "델타항공에 오신 것을 환영합니다",
+			"cls-title": "지역 및 언어 선택",
+			"cls-search-placeholder": "검색",
+			"cls-region": "지역",
+			"cls-location": "지역 및 언어",
+			"cls-display-button": "이 페이지를 한국어로 표시하십시오",
+			"cls-search-label": "Search"
+		},
+		"ja": {
+			"welcome-delta": "ようこそ、デルタ航空へ",
+			"cls-title": "国と言語を選択してください",
+			"cls-search-placeholder": "検索",
+			"cls-region": "地域",
+			"cls-location": "国と言語",
+			"cls-display-button": "このページを日本語で表示する",
+			"cls-search-label": "Search"
+		},
+		"zh": {
+			"welcome-delta": "欢迎来到达美",
+			"cls-title": "选择地点和语言",
+			"cls-search-placeholder": "搜索",
+			"cls-region": "地区",
+			"cls-location": "地点和语言",
+			"cls-display-button": "以简体中文显示此页面",
+			"cls-search-label": "Search"
+		},
+		"zt": {
+			"welcome-delta": "歡迎來到達美",
+			"cls-title": "選擇地點和語言",
+			"cls-search-placeholder": "搜尋",
+			"cls-region": "地區",
+			"cls-location": "地點和語言",
+			"cls-display-button": "以繁體中文顯示此頁面",
+			"cls-search-label": "Search"
+		},
+		"es": {
+			"welcome-delta": "Bienvenido a Delta",
+			"cls-title": "Seleccionar ubicación e idioma",
+			"cls-search-placeholder": "Buscar",
+			"cls-region": "Regiones",
+			"cls-location": "Ubicación e Idioma",
+			"cls-display-button": "Mostrar esta página en español",
+			"cls-search-label": "Buscar"
+		},
+		"nl": {
+			"welcome-delta": "Welkom bij Delta",
+            "cls-title": "Kies locatie en taal",
+            "cls-search-placeholder": "Zoeken",
+            "cls-region": "Regio's",
+            "cls-location": "Locatie en taal",
+            "cls-display-button": "Deze pagina in het Engels weergeven",
+            "cls-search-label": "Zoeken"
+		}
+	},
+	"redirectionUrl": [{
+			"key": "contact-tracing",
+			"url": "/travel-planning-center/know-before-you-go/contact-tracing"
+		},
+		{
+			"key": "know-before-you-go/attestation",
+			"url": "/travel-planning-center/know-before-you-go/attestation"
+		},
+		{
+			"key": "flyready",
+			"url": "/flyready/overview"
+		},
+		{
+			"key": "preparefortrip",
+			"url": "/travel-planning-center/know-before-you-go/preparing-for-your-trip"
+		},
+		{
+			"key": "covid-test-manager",
+			"url": "/covid-test-manager"
+		},
+		{
+			"key": "skymiles",
+			"url": "/skymiles/overview"
+		},
+		{
+			"key": "support-skymiles",
+			"url": "/need-help/support-skymiles#comment-complaint"
+		},
+		{
+			"key": "findPnr.action",
+			"url": "/mytrips/findPnr.action"
+		}
+
+	]
+}�����           g��H-g�   t    O^partitionKey=%28https%2Cdelta.com%29,:https://www.delta.com/content/dam/fresh-air/datasource/country-language.json strongly-framed 1 security-info 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LmNvbYIUZGUtY29udGVudC5kZWx0YS5jb22CDGRlLmRlbHRhLmNvbYIUZXMtY29udGVudC5kZWx0YS5jb22CDGVzLmRlbHRhLmNvbYIUZnItY29udGVudC5kZWx0YS5jb22CDGZyLmRlbHRhLmNvbYIUaXQtY29udGVudC5kZWx0YS5jb22CDGl0LmRlbHRhLmNvbYIUamEtY29udGVudC5kZWx0YS5jb22CDGphLmRlbHRhLmNvbYIUa28tY29udGVudC5kZWx0YS5jb22CDGtvLmRlbHRhLmNvbYILbS5kZWx0YS5jb22CFG5sLWNvbnRlbnQuZGVsdGEuY29tggxubC5kZWx0YS5jb22CFHB0LWNvbnRlbnQuZGVsdGEuY29tggxwdC5kZWx0YS5jb22CFHpoLWNvbnRlbnQuZGVsdGEuY29tggx6aC5kZWx0YS5jb22CFHp0LWNvbnRlbnQuZGVsdGEuY29tggx6dC5kZWx0YS5jb20wPgYDVR0gBDcwNTAzBgZngQwBAgIwKTAnBggrBgEFBQcCARYbaHR0cDovL3d3dy5kaWdpY2VydC5jb20vQ1BTMA4GA1UdDwEB/wQEAwIDiDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwgZ8GA1UdHwSBlzCBlDBIoEagRIZCaHR0cDovL2NybDMuZGlnaWNlcnQuY29tL0RpZ2lDZXJ0R2xvYmFsRzJUTFNSU0FTSEEyNTYyMDIwQ0ExLTIuY3JsMEigRqBEhkJodHRwOi8vY3JsNC5kaWdpY2VydC5jb20vRGlnaUNlcnRHbG9iYWxHMlRMU1JTQVNIQTI1NjIwMjBDQTEtMi5jcmwwgYUGCCsGAQUFBwEBBHkwdzAkBggrBgEFBQcwAYYYaHR0cDovL29jc3AuZGlnaWNlcnQuY29tME8GCCsGAQUFBzAChkNodHRwOi8vY2FjZXJ0cy5kaWdpY2VydC5jb20vRGlnaUNlcnRHbG9iYWxHMlRMU1JTQVNIQTI1NjIwMjBDQTEuY3J0MAwGA1UdEwEB/wQCMAAwggF8BgorBgEEAdZ5AgQCBIIBbASCAWgBZgB1ABLxTjS9U3JMhAYZw48/ehP457Vih4icbTAFhOvlhiY6AAABk0YAczQAAAQDAEYwRAIgZkR4B/QhMljJKOHu1XdKTdU2f9nH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 request-method GET response-head HTTP/2 200 
+x-amz-id-2: RtfB2pS+UZbmxxWT8dHvUvsfgknXWOcPRx46smGxv1iZTg+nW68YQrYOW5cLzXhCvKbdcQ7MLvw=
+x-amz-request-id: QFTSJRXPDNVBFXX9
+last-modified: Tue, 22 Oct 2024 00:33:09 GMT
+etag: "6ca1e7a7d16dedfb438820bebf59d088"
+x-amz-server-side-encryption-bucket-key-enabled: true
+accept-ranges: bytes
+content-type: application/json
+content-length: 50320
+server: AmazonS3
+cache-control: max-age=900
+expires: Mon, 31 Mar 2025 04:50:26 GMT
+date: Mon, 31 Mar 2025 04:35:26 GMT
+strict-transport-security: max-age=31536000;includeSubDomains
+x-content-type-options: nosniff
+akamai-grn: 0.9cc84d17.1743395726.255903d3
+server-timing: ak_p; desc="1743395726772_390973596_626590675_126_48786_3_0_21";dur=1
+X-Firefox-Spdy: h2
+ original-response-headers x-amz-id-2: RtfB2pS+UZbmxxWT8dHvUvsfgknXWOcPRx46smGxv1iZTg+nW68YQrYOW5cLzXhCvKbdcQ7MLvw=
+x-amz-request-id: QFTSJRXPDNVBFXX9
+last-modified: Tue, 22 Oct 2024 00:33:09 GMT
+etag: "6ca1e7a7d16dedfb438820bebf59d088"
+x-amz-server-side-encryption-bucket-key-enabled: true
+accept-ranges: bytes
+content-type: application/json
+content-length: 50320
+server: AmazonS3
+cache-control: max-age=900
+expires: Mon, 31 Mar 2025 04:50:26 GMT
+date: Mon, 31 Mar 2025 04:35:26 GMT
+strict-transport-security: max-age=31536000;includeSubDomains
+x-content-type-options: nosniff
+akamai-grn: 0.9cc84d17.1743395726.255903d3
+set-cookie: location=US+GA+ALPHARETTA; Max-Age=86400; Path=/; Secure; SameSite=Strict
+set-cookie: bm_sv=5C775D7D867A2EFED014BCC679E8F2D3~YAAQnMhNFzK5sK+VAQAA7aV76huQRDevwVz4OaSoq42YVtrfaJuhqf+PzDdl6Sp+/V6wfLfkOlZUFc9hoaWyZJEhq7Uo+B71WuZaXJ1iSCYdwbq9VNWciJxSBkD/qShzjzjSK6RYOHuMmH8MXSGB2f9GXGUbNPUgz+i3tjRHGtkwgW3Ooz0s25Mhje2Mxi7f7A4XaqnbTGBb05+kIsuviHVSZ/qcvdNopEAF3AA+YQawMf0kQSagthFUI4P2v9Y=~1; Domain=.delta.com; Path=/; Expires=Mon, 31 Mar 2025 06:35:26 GMT; Max-Age=7200; Secure
+server-timing: ak_p; desc="1743395726772_390973596_626590675_126_48786_3_0_21";dur=1
+X-Firefox-Spdy: h2
+ ctid 1 net-response-time-onstart 64 net-response-time-onstop 64   Đ

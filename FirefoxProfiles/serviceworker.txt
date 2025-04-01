@@ -1,0 +1,13 @@
+9
+
+https://www.delta.com/
+https://www.delta.com/skymiles/login-sw.js?3=3
+true
+{315c1cef-f50a-404e-9501-65efa4538326}
+2
+1743287141351644
+1743287141353764
+1743287141325169
+0
+true
+#
